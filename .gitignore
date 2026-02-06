@@ -1,0 +1,4 @@
+server.log
+scripts/bash/server.log
+scripts/bash/OLD_report*.txt
+OLD_report*.txt
